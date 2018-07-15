@@ -10,7 +10,7 @@
 
 * July 14, 2018 **»** [js对象（一）](https://easecy.github.io/2018/07/14/b-July-14-2018/)
 * July 14, 2018 **»** [JS 里的数据类型转换](https://easecy.github.io/2018/07/14/July-14-2018/)
-* July 14, 2018 **»** [JS 里的数据类型](https://easecy.github.io/2018/07/11/July-11-2018/)
+* July 11, 2018 **»** [JS 里的数据类型](https://easecy.github.io/2018/07/11/July-11-2018/)
 
 ### May
 
