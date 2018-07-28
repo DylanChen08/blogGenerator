@@ -8,6 +8,7 @@
 
 ### July
 
+* July 28, 2018 **»** [JS函数](https://easecy.github.io/2018/07/28/July-28-2018/)
 * July 24, 2018 **»** [JS函数](https://easecy.github.io/2018/07/24/July-24-2018/)
 * July 22, 2018 **»** [JS数组](https://easecy.github.io/2018/07/22/July-22-2018/)
 * July 17, 2018 **»** [原型与原型链](https://easecy.github.io/2018/07/17/July-17-2018/)
