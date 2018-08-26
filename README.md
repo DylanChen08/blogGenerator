@@ -8,6 +8,7 @@
 
 ### July
 
+* August 26, 2018 **»** [Promise的使用](https://easecy.github.io/2018/08/26/August-26-2018/)
 * July 30, 2018 **»** [DOM事件模型](https://easecy.github.io/2018/07/30/July-30-2018/)
 * July 28, 2018 **»** [自己实现一个jQuery的类似品](https://easecy.github.io/2018/07/28/July-28-2018/)
 * July 24, 2018 **»** [JS函数](https://easecy.github.io/2018/07/24/July-24-2018/)
